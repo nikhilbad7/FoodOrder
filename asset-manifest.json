@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nikhilbad7.github.io/FoodOrder/static/css/main.cccddcfa.css",
-    "main.js": "/nikhilbad7.github.io/FoodOrder/static/js/main.d8a70cd8.js",
-    "static/media/meals.jpg": "/nikhilbad7.github.io/FoodOrder/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/nikhilbad7.github.io/FoodOrder/index.html",
-    "main.cccddcfa.css.map": "/nikhilbad7.github.io/FoodOrder/static/css/main.cccddcfa.css.map",
-    "main.d8a70cd8.js.map": "/nikhilbad7.github.io/FoodOrder/static/js/main.d8a70cd8.js.map"
+    "main.css": "/foodOrderApp/static/css/main.cccddcfa.css",
+    "main.js": "/foodOrderApp/static/js/main.b9e110ca.js",
+    "static/media/meals.jpg": "/foodOrderApp/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/foodOrderApp/index.html",
+    "main.cccddcfa.css.map": "/foodOrderApp/static/css/main.cccddcfa.css.map",
+    "main.b9e110ca.js.map": "/foodOrderApp/static/js/main.b9e110ca.js.map"
   },
   "entrypoints": [
     "static/css/main.cccddcfa.css",
-    "static/js/main.d8a70cd8.js"
+    "static/js/main.b9e110ca.js"
   ]
 }
